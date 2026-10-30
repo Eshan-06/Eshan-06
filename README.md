@@ -1,6 +1,6 @@
 <!-- GitHub Profile README — repo: Eshan-06/Eshan-06 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient:0x0d1322,0x3fb950&text=Eshan%20Sharma&fontSize=44&fontColor=e6edf7&desc=DevOps%20Lead%20%C2%B7%20Multi-Cloud%20%C2%B7%20Kubernetes%20%C2%B7%20DevSecOps&descSize=17&descAlignY=72&descAlign=center&animation=fadeIn" width="100%" alt="Eshan Sharma banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient:0x0B3D42,0x2E86AB&sectionBg=false&text=Eshan%20Sharma&fontSize=46&fontColor=ffffff&desc=DevOps%20Lead%20%C2%B7%20Multi-Cloud%20%C2%B7%20Kubernetes%20%C2%B7%20DevSecOps&descSize=16&descAlignY=66&descAlign=center&animation=fadeIn" width="100%" alt="Eshan Sharma banner" />
 
 <div align="center">
 
